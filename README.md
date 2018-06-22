@@ -1,5 +1,5 @@
 # cmc-react
-A React-based WordPress theme to mimic my existing site.
+A first-go at a React-based WordPress theme to mimic my existing site.
 
 Check out my main site here: https://www.coreymcollins.com/
 
